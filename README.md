@@ -56,18 +56,22 @@ This project demonstrates hands-on expertise in topology design, subnet planning
 ### 🖼️ Lab Screenshots / Dokumentasi Lab
 
 **1. Topologi Jaringan GNS3**
-![Topologi Jaringan](<img width="1162" height="563" alt="Topology" src="https://github.com/user-attachments/assets/ed2cfa1e-21ea-4ae1-83c2-30fdff13c921" />)
+![Topologi Jaringan]
+<img width="1162" height="563" alt="Topology" src="https://github.com/user-attachments/assets/ed2cfa1e-21ea-4ae1-83c2-30fdff13c921" />
 
 **2. Status BGP Established**
-![BGP Summary](<img width="661" height="407" alt="bgp-summary" src="https://github.com/user-attachments/assets/c14cc7d3-44c9-4a7a-b2a8-aa4e8f541ae0" />
-)
+![BGP Summary]
+<img width="661" height="407" alt="bgp-summary" src="https://github.com/user-attachments/assets/c14cc7d3-44c9-4a7a-b2a8-aa4e8f541ae0" />
+
 
 **3. Tabel Routing R2 (OSPF External O E2)**
-![Routing Table R2](<img width="631" height="409" alt="r2-routing-table" src="https://github.com/user-attachments/assets/0188146b-c46a-4063-867e-16ea4fe70967" />)
+![Routing Table R2]
+<img width="631" height="409" alt="r2-routing-table" src="https://github.com/user-attachments/assets/0188146b-c46a-4063-867e-16ea4fe70967" />
 
 **4. Tes Ping End-to-End Lintas AS (100% Success)**
-![Ping Test](<img width="622" height="408" alt="ping-test" src="https://github.com/user-attachments/assets/f8417cda-a60a-4b2b-bc77-0245331a5329" />
-)
+![Ping Test]
+<img width="622" height="408" alt="ping-test" src="https://github.com/user-attachments/assets/f8417cda-a60a-4b2b-bc77-0245331a5329" />
+
 
 ---
 *Built with ❤️ & GNS3 for Network Engineering Portfolio.*
